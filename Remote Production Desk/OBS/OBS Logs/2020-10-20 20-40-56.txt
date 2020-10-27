@@ -1,0 +1,171 @@
+20:40:56.640: CPU Name: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz
+20:40:56.640: CPU Speed: 3696MHz
+20:40:56.640: Physical Cores: 6, Logical Cores: 12
+20:40:56.640: Physical Memory: 32698MB Total, 26361MB Free
+20:40:56.640: Windows Version: 10.0 Build 19041 (release: 2004; revision: 572; 64-bit)
+20:40:56.641: Running as administrator: false
+20:40:56.641: Aero is Enabled (Aero is always on for windows 8 and above)
+20:40:56.641: Windows 10 Gaming Features:
+20:40:56.641: 	Game DVR: On
+20:40:56.642: Sec. Software Status:
+20:40:56.643: 	Microsoft Defender Antivirus: enabled (AV)
+20:40:56.643: 	Windows Firewall: enabled (FW)
+20:40:56.644: Current Date/Time: 2020-10-20, 20:40:56
+20:40:56.644: Browser Hardware Acceleration: true
+20:40:56.644: Portable mode: false
+20:40:56.867: OBS 26.0.2 (64-bit, windows)
+20:40:56.867: ---------------------------------
+20:40:56.884: ---------------------------------
+20:40:56.884: audio settings reset:
+20:40:56.884: 	samples per sec: 48000
+20:40:56.884: 	speakers:        2
+20:40:56.885: ---------------------------------
+20:40:56.885: Initializing D3D11...
+20:40:56.885: Available Video Adapters: 
+20:40:56.887: 	Adapter 0: NVIDIA GeForce GTX 1070
+20:40:56.887: 	  Dedicated VRAM: 4091543552
+20:40:56.887: 	  Shared VRAM:    4258285568
+20:40:56.887: 	  PCI ID:         10de:1b81
+20:40:56.887: 	  Driver Version: 27.21.14.5671
+20:40:56.887: 	  output 0: pos={0, 0}, size={1920, 1080}, attached=true, refresh=59, name=HP 22cwa
+20:40:56.888: 	  output 1: pos={-1920, 0}, size={1920, 1080}, attached=true, refresh=60, name=HP 22cwa
+20:40:56.888: 	  output 2: pos={-3840, 0}, size={1920, 1080}, attached=true, refresh=60, name=1080 Multi
+20:40:56.890: Loading up D3D11 on adapter NVIDIA GeForce GTX 1070 (0)
+20:40:56.955: D3D11 loaded successfully, feature level used: b000
+20:40:56.955: DXGI increase maximum frame latency success
+20:40:56.955: D3D11 GPU priority setup failed (not admin?)
+20:40:57.313: ---------------------------------
+20:40:57.313: video settings reset:
+20:40:57.313: 	base resolution:   3840x2160
+20:40:57.313: 	output resolution: 1280x720
+20:40:57.313: 	downscale filter:  Bicubic
+20:40:57.313: 	fps:               60/1
+20:40:57.313: 	format:            NV12
+20:40:57.313: 	YUV mode:          709/Partial
+20:40:57.314: NV12 texture support enabled
+20:40:57.316: Audio monitoring device:
+20:40:57.316: 	name: Digital Audio (S/PDIF) (High Definition Audio Device)
+20:40:57.316: 	id: {0.0.0.00000000}.{10a97938-4af8-465e-b839-5f1fceccf25b}
+20:40:57.316: ---------------------------------
+20:40:57.324: [CoreAudio encoder]: Adding CoreAudio AAC encoder
+20:40:57.324: Failed to load 'en-US' text for module: 'decklink-ouput-ui.dll'
+20:40:57.346: [AMF] Unable to load 'amfrt64.dll', error code 126.
+20:40:57.347: [AMF] AMF Test failed due to one or more errors.
+20:40:57.347: Failed to initialize module 'enc-amf.dll'
+20:40:57.361: [obs-browser]: Version 2.8.7
+20:40:57.364: NVENC supported
+20:40:57.365: [obs-ndi] hello ! (version 4.9.0)
+20:40:57.365: [obs-ndi] Trying 'C:\Program Files\NewTek\NDI 4 Tools\Runtime'
+20:40:57.365: [obs-ndi] Found NDI library at 'C:/Program Files/NewTek/NDI 4 Tools/Runtime/Processing.NDI.Lib.x64.dll'
+20:40:57.368: [obs-ndi] NDI runtime loaded successfully
+20:40:57.373: [obs-ndi] NDI library initialized successfully (NDI SDK WIN64 01:27:52 Sep 10 2020 4.5.3.0)
+20:40:57.530: [obs-websocket] you can haz websockets (version 4.8.0)
+20:40:57.530: [obs-websocket] qt version (compile-time): 5.10.1 ; qt version (run-time): 5.10.1
+20:40:57.532: [obs-websocket] module loaded!
+20:40:57.536: VLC found, VLC video source enabled
+20:40:57.541: Decklink API Compiled version 10.11.4
+20:40:57.541: Decklink API Installed version 11.6
+20:40:57.546: ---------------------------------
+20:40:57.546:   Loaded Modules:
+20:40:57.546:     win-wasapi.dll
+20:40:57.546:     win-mf.dll
+20:40:57.546:     win-dshow.dll
+20:40:57.546:     win-decklink.dll
+20:40:57.546:     win-capture.dll
+20:40:57.546:     vlc-video.dll
+20:40:57.546:     text-freetype2.dll
+20:40:57.546:     rtmp-services.dll
+20:40:57.546:     obs-x264.dll
+20:40:57.546:     obs-websocket.dll
+20:40:57.546:     obs-vst.dll
+20:40:57.546:     obs-transitions.dll
+20:40:57.546:     obs-text.dll
+20:40:57.546:     obs-qsv11.dll
+20:40:57.546:     obs-outputs.dll
+20:40:57.546:     obs-ndi.dll
+20:40:57.546:     obs-filters.dll
+20:40:57.546:     obs-ffmpeg.dll
+20:40:57.546:     obs-browser.dll
+20:40:57.546:     image-source.dll
+20:40:57.546:     frontend-tools.dll
+20:40:57.546:     enc-amf.dll
+20:40:57.546:     decklink-ouput-ui.dll
+20:40:57.546:     coreaudio-encoder.dll
+20:40:57.546: ---------------------------------
+20:40:57.546: ==== Startup complete ===============================================
+20:40:57.556: All scene data cleared
+20:40:57.556: ------------------------------------------------
+20:40:57.570: [obs-ndi] started A/V threads for source 'WINTHEATERLABMACMINI81PAYNETHEATRECONTROLBOOTH.LOCAL (Ruta QL S'
+20:40:57.570: [obs-ndi] A/V thread for 'QLab Audio' started
+20:40:58.070: Switched to scene 'LRTA - OBS Ninja (3x3)'
+20:40:58.070: ------------------------------------------------
+20:40:58.070: Loaded scenes:
+20:40:58.070: - scene 'LRTA - Test Signals (3x3)':
+20:40:58.070:     - source: 'Test 9' (image_source)
+20:40:58.070:     - source: 'Test 8' (image_source)
+20:40:58.070:     - source: 'Test 7' (image_source)
+20:40:58.070:     - source: 'Test 6' (image_source)
+20:40:58.070:     - source: 'Test 5' (image_source)
+20:40:58.070:     - source: 'Test 4' (image_source)
+20:40:58.070:     - source: 'Test 3' (image_source)
+20:40:58.070:     - source: 'Test 2' (image_source)
+20:40:58.070:     - source: 'Test 1' (image_source)
+20:40:58.070: - scene 'LRTA - OBS Ninja (3x3)':
+20:40:58.072:     - source: 'Desamaya - Guitar & Singing Mic' (browser_source)
+20:40:58.072:     - source: 'QLab Audio' (ndi_source)
+20:40:58.072:         - filter: 'Color Correction' (color_filter)
+20:40:58.072:     - source: 'Cam 9 - Anapaula' (browser_source)
+20:40:58.072:         - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+20:40:58.072:         - filter: 'EQ' (vst_filter)
+20:40:58.072:     - source: 'Cam 8 - Deja' (browser_source)
+20:40:58.072:         - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+20:40:58.072:         - filter: 'EQ' (vst_filter)
+20:40:58.072:     - source: 'Cam 7 - Emily P' (browser_source)
+20:40:58.072:         - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+20:40:58.072:         - filter: 'EQ' (vst_filter)
+20:40:58.072:     - source: 'Cam 6 - Desamaya' (browser_source)
+20:40:58.072:         - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+20:40:58.072:         - filter: 'EQ' (vst_filter)
+20:40:58.072:     - source: 'Cam 5 - Ivonne' (browser_source)
+20:40:58.072:         - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+20:40:58.072:         - filter: 'EQ' (vst_filter)
+20:40:58.072:     - source: 'Cam 4 - Zaide' (browser_source)
+20:40:58.072:         - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+20:40:58.072:         - filter: 'EQ' (vst_filter)
+20:40:58.072:     - source: 'Cam 3 - Brenda' (browser_source)
+20:40:58.072:         - filter: 'Color Correction' (color_filter)
+20:40:58.072:         - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+20:40:58.072:         - filter: 'EQ' (vst_filter)
+20:40:58.072:     - source: 'Cam 2 - Yolanda' (browser_source)
+20:40:58.072:         - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+20:40:58.072:         - filter: 'EQ' (vst_filter)
+20:40:58.072:     - source: 'Cam 1 - Marisela' (browser_source)
+20:40:58.072:         - filter: 'Color Correction' (color_filter)
+20:40:58.072:         - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+20:40:58.072:         - filter: 'EQ' (vst_filter)
+20:40:58.072: ------------------------------------------------
+20:40:58.248: [obs-websocket] server started successfully on port 4444
+20:40:58.248: [obs-websocket] io thread started
+20:40:58.827: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Cam 8 - Deja)
+20:40:58.827: 
+20:41:03.163: [obs-ndi] starting NDI main output with name 'OBS - Actors'
+20:41:03.167: [obs-ndi] 'OBS - Actors': ndi output started
+20:41:05.167: [obs-websocket] new client connection from [::ffff:127.0.0.1]:53560
+20:49:44.062: Settings changed (outputs)
+20:49:44.062: ------------------------------------------------
+20:49:52.540: [obs-ndi] stopping NDI main output
+20:49:52.540: Output 'NDI Main Output': stopping
+20:49:52.540: Output 'NDI Main Output': Total frames output: 31761
+20:49:52.540: Output 'NDI Main Output': Total drawn frames: 31763
+20:50:58.419: ---------------------------------
+20:50:58.419: video settings reset:
+20:50:58.419: 	base resolution:   3840x2160
+20:50:58.419: 	output resolution: 1280x720
+20:50:58.419: 	downscale filter:  Bicubic
+20:50:58.419: 	fps:               30/1
+20:50:58.419: 	format:            NV12
+20:50:58.419: 	YUV mode:          709/Partial
+20:50:58.419: NV12 texture support enabled
+20:50:58.442: Settings changed (video, advanced)
+20:50:58.442: ------------------------------------------------
+20:51:03.472: [obs-ndi] starting NDI main output with name 'OBS - Actors'

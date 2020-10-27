@@ -1,0 +1,303 @@
+19:34:24.401: CPU Name: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz
+19:34:24.401: CPU Speed: 3696MHz
+19:34:24.401: Physical Cores: 6, Logical Cores: 12
+19:34:24.401: Physical Memory: 32698MB Total, 26172MB Free
+19:34:24.401: Windows Version: 10.0 Build 19041 (release: 2004; revision: 572; 64-bit)
+19:34:24.401: Running as administrator: false
+19:34:24.401: Aero is Enabled (Aero is always on for windows 8 and above)
+19:34:24.401: Windows 10 Gaming Features:
+19:34:24.401: 	Game DVR: On
+19:34:24.403: Sec. Software Status:
+19:34:24.404: 	Microsoft Defender Antivirus: enabled (AV)
+19:34:24.405: 	Windows Firewall: enabled (FW)
+19:34:24.405: Current Date/Time: 2020-10-20, 19:34:24
+19:34:24.405: Browser Hardware Acceleration: true
+19:34:24.405: Portable mode: false
+19:34:24.637: OBS 26.0.2 (64-bit, windows)
+19:34:24.637: ---------------------------------
+19:34:24.651: ---------------------------------
+19:34:24.651: audio settings reset:
+19:34:24.651: 	samples per sec: 48000
+19:34:24.651: 	speakers:        2
+19:34:24.652: ---------------------------------
+19:34:24.652: Initializing D3D11...
+19:34:24.652: Available Video Adapters: 
+19:34:24.654: 	Adapter 0: NVIDIA GeForce GTX 1070
+19:34:24.654: 	  Dedicated VRAM: 4091543552
+19:34:24.654: 	  Shared VRAM:    4258285568
+19:34:24.654: 	  PCI ID:         10de:1b81
+19:34:24.654: 	  Driver Version: 27.21.14.5671
+19:34:24.654: 	  output 0: pos={0, 0}, size={1920, 1080}, attached=true, refresh=59, name=HP 22cwa
+19:34:24.654: 	  output 1: pos={-1920, 0}, size={1920, 1080}, attached=true, refresh=60, name=HP 22cwa
+19:34:24.654: 	  output 2: pos={-3840, 0}, size={1920, 1080}, attached=true, refresh=60, name=1080 Multi
+19:34:24.656: Loading up D3D11 on adapter NVIDIA GeForce GTX 1070 (0)
+19:34:24.723: D3D11 loaded successfully, feature level used: b000
+19:34:24.723: DXGI increase maximum frame latency success
+19:34:24.723: D3D11 GPU priority setup failed (not admin?)
+19:34:25.131: ---------------------------------
+19:34:25.131: video settings reset:
+19:34:25.131: 	base resolution:   3840x2160
+19:34:25.131: 	output resolution: 1280x720
+19:34:25.131: 	downscale filter:  Bicubic
+19:34:25.131: 	fps:               60/1
+19:34:25.131: 	format:            NV12
+19:34:25.131: 	YUV mode:          709/Partial
+19:34:25.132: NV12 texture support enabled
+19:34:25.134: Audio monitoring device:
+19:34:25.134: 	name: Default
+19:34:25.134: 	id: default
+19:34:25.134: ---------------------------------
+19:34:25.149: [CoreAudio encoder]: Adding CoreAudio AAC encoder
+19:34:25.150: Failed to load 'en-US' text for module: 'decklink-ouput-ui.dll'
+19:34:25.179: [AMF] Unable to load 'amfrt64.dll', error code 126.
+19:34:25.180: [AMF] AMF Test failed due to one or more errors.
+19:34:25.180: Failed to initialize module 'enc-amf.dll'
+19:34:25.209: [obs-browser]: Version 2.8.7
+19:34:25.217: NVENC supported
+19:34:25.236: [obs-ndi] hello ! (version 4.9.0)
+19:34:25.236: [obs-ndi] Trying 'C:\Program Files\NewTek\NDI 4 Tools\Runtime'
+19:34:25.236: [obs-ndi] Found NDI library at 'C:/Program Files/NewTek/NDI 4 Tools/Runtime/Processing.NDI.Lib.x64.dll'
+19:34:25.259: [obs-ndi] NDI runtime loaded successfully
+19:34:25.420: [obs-ndi] NDI library initialized successfully (NDI SDK WIN64 01:27:52 Sep 10 2020 4.5.3.0)
+19:34:25.607: [obs-websocket] you can haz websockets (version 4.8.0)
+19:34:25.607: [obs-websocket] qt version (compile-time): 5.10.1 ; qt version (run-time): 5.10.1
+19:34:25.609: [obs-websocket] module loaded!
+19:34:25.628: VLC found, VLC video source enabled
+19:34:25.652: Decklink API Compiled version 10.11.4
+19:34:25.652: Decklink API Installed version 11.6
+19:34:25.666: ---------------------------------
+19:34:25.666:   Loaded Modules:
+19:34:25.666:     win-wasapi.dll
+19:34:25.666:     win-mf.dll
+19:34:25.666:     win-dshow.dll
+19:34:25.666:     win-decklink.dll
+19:34:25.666:     win-capture.dll
+19:34:25.666:     vlc-video.dll
+19:34:25.666:     text-freetype2.dll
+19:34:25.666:     rtmp-services.dll
+19:34:25.666:     obs-x264.dll
+19:34:25.666:     obs-websocket.dll
+19:34:25.666:     obs-vst.dll
+19:34:25.666:     obs-transitions.dll
+19:34:25.666:     obs-text.dll
+19:34:25.666:     obs-qsv11.dll
+19:34:25.666:     obs-outputs.dll
+19:34:25.666:     obs-ndi.dll
+19:34:25.666:     obs-filters.dll
+19:34:25.666:     obs-ffmpeg.dll
+19:34:25.666:     obs-browser.dll
+19:34:25.666:     image-source.dll
+19:34:25.666:     frontend-tools.dll
+19:34:25.666:     enc-amf.dll
+19:34:25.666:     decklink-ouput-ui.dll
+19:34:25.666:     coreaudio-encoder.dll
+19:34:25.666: ---------------------------------
+19:34:25.666: ==== Startup complete ===============================================
+19:34:25.681: All scene data cleared
+19:34:25.681: ------------------------------------------------
+19:34:26.269: [obs-ndi] started A/V threads for source 'WINTHEATERLABMACMINI81PAYNETHEATRECONTROLBOOTH.LOCAL (Ruta QL S'
+19:34:26.269: [obs-ndi] A/V thread for 'QLab Audio' started
+19:34:26.270: Switched to scene 'LRTA - OBS Ninja (3x3)'
+19:34:26.270: ------------------------------------------------
+19:34:26.270: Loaded scenes:
+19:34:26.270: - scene 'LRTA - Test Signals (3x3)':
+19:34:26.270:     - source: 'Test 9' (image_source)
+19:34:26.270:     - source: 'Test 8' (image_source)
+19:34:26.270:     - source: 'Test 7' (image_source)
+19:34:26.270:     - source: 'Test 6' (image_source)
+19:34:26.270:     - source: 'Test 5' (image_source)
+19:34:26.270:     - source: 'Test 4' (image_source)
+19:34:26.270:     - source: 'Test 3' (image_source)
+19:34:26.270:     - source: 'Test 2' (image_source)
+19:34:26.270:     - source: 'Test 1' (image_source)
+19:34:26.270: - scene 'LRTA - OBS Ninja (3x3)':
+19:34:26.276:     - source: 'Desamaya - Guitar & Singing Mic' (browser_source)
+19:34:26.276:     - source: 'QLab Audio' (ndi_source)
+19:34:26.276:         - filter: 'Color Correction' (color_filter)
+19:34:26.276:     - source: 'Cam 9 - Anapaula' (browser_source)
+19:34:26.276:         - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+19:34:26.276:         - filter: 'EQ' (vst_filter)
+19:34:26.276:     - source: 'Cam 8 - Deja' (browser_source)
+19:34:26.276:         - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+19:34:26.276:         - filter: 'EQ' (vst_filter)
+19:34:26.276:     - source: 'Cam 7 - Emily P' (browser_source)
+19:34:26.276:         - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+19:34:26.276:         - filter: 'EQ' (vst_filter)
+19:34:26.276:     - source: 'Cam 6 - Desamaya' (browser_source)
+19:34:26.276:         - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+19:34:26.276:         - filter: 'EQ' (vst_filter)
+19:34:26.276:     - source: 'Cam 5 - Ivonne' (browser_source)
+19:34:26.276:         - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+19:34:26.276:         - filter: 'EQ' (vst_filter)
+19:34:26.276:     - source: 'Cam 4 - Zaide' (browser_source)
+19:34:26.276:         - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+19:34:26.276:         - filter: 'EQ' (vst_filter)
+19:34:26.276:     - source: 'Cam 3 - Brenda' (browser_source)
+19:34:26.276:         - filter: 'Color Correction' (color_filter)
+19:34:26.276:         - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+19:34:26.276:         - filter: 'EQ' (vst_filter)
+19:34:26.276:     - source: 'Cam 2 - Yolanda' (browser_source)
+19:34:26.276:         - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+19:34:26.276:         - filter: 'EQ' (vst_filter)
+19:34:26.276:     - source: 'Cam 1 - Marisela' (browser_source)
+19:34:26.276:         - filter: 'Color Correction' (color_filter)
+19:34:26.276:         - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+19:34:26.276:         - filter: 'EQ' (vst_filter)
+19:34:26.276: ------------------------------------------------
+19:34:26.436: [obs-websocket] server started successfully on port 4444
+19:34:26.436: [obs-ndi] starting NDI main output with name 'OBS - Actors'
+19:34:26.437: [obs-websocket] io thread started
+19:34:26.440: [obs-ndi] 'OBS - Actors': ndi output started
+19:34:29.199: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Cam 6 - Desamaya)
+19:34:29.199: 
+19:34:29.205: adding 21 milliseconds of audio buffering, total audio buffering is now 64 milliseconds (source: Cam 9 - Anapaula)
+19:34:29.205: 
+19:34:29.270: adding 21 milliseconds of audio buffering, total audio buffering is now 85 milliseconds (source: Cam 1 - Marisela)
+19:34:29.270: 
+19:34:29.276: adding 42 milliseconds of audio buffering, total audio buffering is now 128 milliseconds (source: Cam 6 - Desamaya)
+19:34:29.276: 
+19:34:29.281: adding 21 milliseconds of audio buffering, total audio buffering is now 149 milliseconds (source: Cam 9 - Anapaula)
+19:34:29.281: 
+19:34:29.283: adding 21 milliseconds of audio buffering, total audio buffering is now 170 milliseconds (source: Cam 1 - Marisela)
+19:34:29.283: 
+19:34:29.290: adding 42 milliseconds of audio buffering, total audio buffering is now 213 milliseconds (source: Cam 6 - Desamaya)
+19:34:29.290: 
+19:34:29.295: adding 21 milliseconds of audio buffering, total audio buffering is now 234 milliseconds (source: Cam 9 - Anapaula)
+19:34:29.295: 
+19:34:29.297: adding 21 milliseconds of audio buffering, total audio buffering is now 256 milliseconds (source: Cam 1 - Marisela)
+19:34:29.297: 
+19:34:29.303: adding 42 milliseconds of audio buffering, total audio buffering is now 298 milliseconds (source: Cam 6 - Desamaya)
+19:34:29.303: 
+19:34:29.310: adding 21 milliseconds of audio buffering, total audio buffering is now 320 milliseconds (source: Cam 9 - Anapaula)
+19:34:29.310: 
+19:34:29.313: adding 21 milliseconds of audio buffering, total audio buffering is now 341 milliseconds (source: Cam 1 - Marisela)
+19:34:29.313: 
+19:34:29.315: adding 21 milliseconds of audio buffering, total audio buffering is now 362 milliseconds (source: Cam 2 - Yolanda)
+19:34:29.315: 
+19:34:29.318: adding 21 milliseconds of audio buffering, total audio buffering is now 384 milliseconds (source: Cam 6 - Desamaya)
+19:34:29.318: 
+19:34:29.320: adding 21 milliseconds of audio buffering, total audio buffering is now 405 milliseconds (source: Cam 9 - Anapaula)
+19:34:29.320: 
+19:34:29.323: adding 21 milliseconds of audio buffering, total audio buffering is now 426 milliseconds (source: Cam 1 - Marisela)
+19:34:29.323: 
+19:34:29.325: adding 21 milliseconds of audio buffering, total audio buffering is now 448 milliseconds (source: Cam 2 - Yolanda)
+19:34:29.325: 
+19:34:29.328: adding 21 milliseconds of audio buffering, total audio buffering is now 469 milliseconds (source: Cam 6 - Desamaya)
+19:34:29.328: 
+19:34:29.331: adding 21 milliseconds of audio buffering, total audio buffering is now 490 milliseconds (source: Cam 9 - Anapaula)
+19:34:29.331: 
+19:34:29.333: adding 21 milliseconds of audio buffering, total audio buffering is now 512 milliseconds (source: Cam 1 - Marisela)
+19:34:29.333: 
+19:34:29.337: adding 21 milliseconds of audio buffering, total audio buffering is now 533 milliseconds (source: Cam 2 - Yolanda)
+19:34:29.337: 
+19:34:29.340: adding 21 milliseconds of audio buffering, total audio buffering is now 554 milliseconds (source: Cam 6 - Desamaya)
+19:34:29.340: 
+19:34:29.342: adding 21 milliseconds of audio buffering, total audio buffering is now 576 milliseconds (source: Cam 9 - Anapaula)
+19:34:29.342: 
+19:34:29.345: adding 21 milliseconds of audio buffering, total audio buffering is now 597 milliseconds (source: Cam 1 - Marisela)
+19:34:29.345: 
+19:34:29.347: adding 21 milliseconds of audio buffering, total audio buffering is now 618 milliseconds (source: Cam 2 - Yolanda)
+19:34:29.347: 
+19:34:29.351: adding 21 milliseconds of audio buffering, total audio buffering is now 640 milliseconds (source: Cam 6 - Desamaya)
+19:34:29.351: 
+19:34:29.353: adding 21 milliseconds of audio buffering, total audio buffering is now 661 milliseconds (source: Cam 9 - Anapaula)
+19:34:29.353: 
+19:34:29.356: adding 21 milliseconds of audio buffering, total audio buffering is now 682 milliseconds (source: Cam 1 - Marisela)
+19:34:29.356: 
+19:34:29.358: adding 21 milliseconds of audio buffering, total audio buffering is now 704 milliseconds (source: Cam 2 - Yolanda)
+19:34:29.358: 
+19:34:29.361: adding 21 milliseconds of audio buffering, total audio buffering is now 725 milliseconds (source: Cam 6 - Desamaya)
+19:34:29.361: 
+19:34:29.363: adding 21 milliseconds of audio buffering, total audio buffering is now 746 milliseconds (source: Cam 9 - Anapaula)
+19:34:29.363: 
+19:34:29.395: Last log entry repeated for 9 more lines
+19:34:29.395: Max audio buffering reached!
+19:34:29.395: adding 21 milliseconds of audio buffering, total audio buffering is now 960 milliseconds (source: Cam 2 - Yolanda)
+19:34:29.395: 
+19:34:32.689: [obs-websocket] new client connection from [::ffff:127.0.0.1]:52949
+19:34:36.717: [obs-ndi] stopping NDI main output
+19:34:36.717: Output 'NDI Main Output': stopping
+19:34:36.717: Output 'NDI Main Output': Total frames output: 615
+19:34:36.717: Output 'NDI Main Output': Total drawn frames: 616
+19:34:45.535: [obs-ndi] starting NDI main output with name 'OBS - Actors'
+19:34:45.538: [obs-ndi] 'OBS - Actors': ndi output started
+19:35:09.656: [obs-ndi] stopping NDI main output
+19:35:09.656: Output 'NDI Main Output': stopping
+19:35:09.656: Output 'NDI Main Output': Total frames output: 1445
+19:35:09.656: Output 'NDI Main Output': Total drawn frames: 1447
+19:35:11.067: ==== Shutting down ==================================================
+19:35:11.096: All scene data cleared
+19:35:11.096: ------------------------------------------------
+19:35:11.117: [obs-ndi] audio thread for 'QLab Audio' completed
+19:35:11.172: [obs-websocket] io thread exited
+19:35:11.173: [obs-websocket] server stopped successfully
+19:35:11.173: [obs-websocket] goodbye!
+19:35:11.174: [obs-ndi] goodbye !
+19:35:11.226: [Scripting] Total detached callbacks: 0
+19:35:11.229: Freeing OBS context data
+19:35:11.355: == Profiler Results =============================
+19:35:11.355: run_program_init: 2139.06 ms
+19:35:11.355:  ┣OBSApp::AppInit: 17.442 ms
+19:35:11.355:  ┃ ┗OBSApp::InitLocale: 10.591 ms
+19:35:11.355:  ┗OBSApp::OBSInit: 2038.9 ms
+19:35:11.355:    ┣obs_startup: 3.764 ms
+19:35:11.355:    ┗OBSBasic::OBSInit: 1788.86 ms
+19:35:11.355:      ┣OBSBasic::InitBasicConfig: 0.401 ms
+19:35:11.355:      ┣OBSBasic::ResetAudio: 0.143 ms
+19:35:11.355:      ┣OBSBasic::ResetVideo: 482.514 ms
+19:35:11.355:      ┣OBSBasic::InitOBSCallbacks: 0.006 ms
+19:35:11.355:      ┣OBSBasic::InitHotkeys: 0.033 ms
+19:35:11.355:      ┣obs_load_all_modules: 531.892 ms
+19:35:11.355:      ┃ ┣obs_init_module(coreaudio-encoder.dll): 8.853 ms
+19:35:11.355:      ┃ ┣obs_init_module(decklink-ouput-ui.dll): 0.428 ms
+19:35:11.355:      ┃ ┣obs_init_module(enc-amf.dll): 24.994 ms
+19:35:11.355:      ┃ ┣obs_init_module(frontend-tools.dll): 3.903 ms
+19:35:11.355:      ┃ ┣obs_init_module(image-source.dll): 0.005 ms
+19:35:11.355:      ┃ ┣obs_init_module(obs-browser.dll): 0.314 ms
+19:35:11.355:      ┃ ┣obs_init_module(obs-ffmpeg.dll): 1.118 ms
+19:35:11.355:      ┃ ┃ ┗nvenc_check: 1.06 ms
+19:35:11.355:      ┃ ┣obs_init_module(obs-filters.dll): 0.02 ms
+19:35:11.355:      ┃ ┣obs_init_module(obs-ndi.dll): 191.019 ms
+19:35:11.355:      ┃ ┣obs_init_module(obs-outputs.dll): 0.027 ms
+19:35:11.355:      ┃ ┣obs_init_module(obs-qsv11.dll): 141.228 ms
+19:35:11.355:      ┃ ┣obs_init_module(obs-text.dll): 0.229 ms
+19:35:11.355:      ┃ ┣obs_init_module(obs-transitions.dll): 0.006 ms
+19:35:11.355:      ┃ ┣obs_init_module(obs-vst.dll): 0.002 ms
+19:35:11.355:      ┃ ┣obs_init_module(obs-websocket.dll): 1.549 ms
+19:35:11.355:      ┃ ┣obs_init_module(obs-x264.dll): 0.001 ms
+19:35:11.355:      ┃ ┣obs_init_module(rtmp-services.dll): 0.416 ms
+19:35:11.355:      ┃ ┣obs_init_module(text-freetype2.dll): 0.055 ms
+19:35:11.355:      ┃ ┣obs_init_module(vlc-video.dll): 1.2 ms
+19:35:11.355:      ┃ ┣obs_init_module(win-capture.dll): 1.4 ms
+19:35:11.355:      ┃ ┣obs_init_module(win-decklink.dll): 15.551 ms
+19:35:11.355:      ┃ ┣obs_init_module(win-dshow.dll): 1.659 ms
+19:35:11.355:      ┃ ┣obs_init_module(win-mf.dll): 0 ms
+19:35:11.355:      ┃ ┣obs_init_module(win-wasapi.dll): 0.007 ms
+19:35:11.355:      ┃ ┗reset_win32_symbol_paths: 0.208 ms
+19:35:11.355:      ┣OBSBasic::ResetOutputs: 5.478 ms
+19:35:11.355:      ┣OBSBasic::CreateHotkeys: 0.037 ms
+19:35:11.355:      ┣OBSBasic::InitService: 5.603 ms
+19:35:11.355:      ┣OBSBasic::InitPrimitives: 0.085 ms
+19:35:11.355:      ┗OBSBasic::Load: 632.657 ms
+19:35:11.355: obs_hotkey_thread(25 ms): min=0.004 ms, median=0.006 ms, max=0.177 ms, 99th percentile=0.065 ms, 100% below 25 ms
+19:35:11.355: audio_thread(Audio): min=0 ms, median=8.954 ms, max=2512.47 ms, 99th percentile=29.11 ms
+19:35:11.355: obs_graphics_thread(16.6667 ms): min=0.082 ms, median=0.906 ms, max=507.014 ms, 99th percentile=9.704 ms, 99.9634% below 16.667 ms
+19:35:11.355:  ┣tick_sources: min=0.001 ms, median=0.022 ms, max=500.492 ms, 99th percentile=0.042 ms
+19:35:11.355:  ┣output_frame: min=0.073 ms, median=0.698 ms, max=13.374 ms, 99th percentile=9.514 ms
+19:35:11.355:  ┃ ┣gs_context(video->graphics): min=0.073 ms, median=0.458 ms, max=13.093 ms, 99th percentile=9.296 ms
+19:35:11.355:  ┃ ┃ ┣render_video: min=0.006 ms, median=0.289 ms, max=12.922 ms, 99th percentile=9.082 ms
+19:35:11.355:  ┃ ┃ ┃ ┣render_main_texture: min=0.004 ms, median=0.276 ms, max=12.904 ms, 99th percentile=9.06 ms
+19:35:11.355:  ┃ ┃ ┃ ┣render_output_texture: min=0.003 ms, median=0.004 ms, max=0.128 ms, 99th percentile=0.015 ms, 0.754848 calls per parent call
+19:35:11.355:  ┃ ┃ ┃ ┣render_convert_texture: min=0.005 ms, median=0.008 ms, max=0.147 ms, 99th percentile=0.026 ms, 0.754848 calls per parent call
+19:35:11.356:  ┃ ┃ ┃ ┗stage_output_texture: min=0.001 ms, median=0.003 ms, max=0.041 ms, 99th percentile=0.005 ms, 0.754848 calls per parent call
+19:35:11.356:  ┃ ┃ ┣gs_flush: min=0.037 ms, median=0.193 ms, max=0.946 ms, 99th percentile=0.465 ms
+19:35:11.356:  ┃ ┃ ┗download_frame: min=0 ms, median=0.003 ms, max=3.693 ms, 99th percentile=0.008 ms, 0.754848 calls per parent call
+19:35:11.356:  ┃ ┗output_video_data: min=0.119 ms, median=0.225 ms, max=0.811 ms, 99th percentile=0.457 ms, 0.754116 calls per parent call
+19:35:11.356:  ┗render_displays: min=0 ms, median=0.137 ms, max=5.055 ms, 99th percentile=0.318 ms
+19:35:11.356: video_thread(video): min=0.809 ms, median=1.947 ms, max=3.643 ms, 99th percentile=2.744 ms
+19:35:11.356: =================================================
+19:35:11.356: == Profiler Time Between Calls ==================
+19:35:11.356: obs_hotkey_thread(25 ms): min=24.929 ms, median=25.927 ms, max=26.329 ms, 14.0331% within ±2% of 25 ms (0% lower, 85.9669% higher)
+19:35:11.356: obs_graphics_thread(16.6667 ms): min=9.722 ms, median=16.667 ms, max=507.019 ms, 99.5974% within ±2% of 16.667 ms (0.219619% lower, 0.183016% higher)
+19:35:11.356: =================================================
+19:35:11.390: Number of memory leaks: 0
